@@ -48,7 +48,7 @@ export default function Todo(props) {
       </div>
     </form>
   );
-  const viewTemplate = (//战士状态
+  const viewTemplate = (//展示状态
     <div className="stack-small">
       <div className="c-cb">
         <input
